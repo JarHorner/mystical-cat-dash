@@ -35,4 +35,4 @@ As the run goes on, things speed up, gaps tighten, and the course gets meaner â€
 
 ## Status
 
-Active hobby project. Updates land on the Itch page as they're ready.
+hobby project from University. Play on the Itch page! No more updates
