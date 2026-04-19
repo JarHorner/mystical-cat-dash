@@ -108,7 +108,7 @@ public class FlappyPlayerController : MonoBehaviour
     IEnumerator Death()
     {
         rb.constraints = RigidbodyConstraints2D.None;
-        rb.velocity = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
         GameManager.Instance.gameOver = true;
         yield return new WaitForSeconds(3f);
         Destroy(this.gameObject);
