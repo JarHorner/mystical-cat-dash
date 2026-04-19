@@ -22,7 +22,7 @@ As the run goes on, things speed up, gaps tighten, and the course gets meaner â€
 - Roughly **2â€“3 GB** of free disk space once the `Library/` folder is generated on first open.
 - Any platform the Unity 6 editor supports (Windows, macOS, Linux).
 
-## Installation
+## Installation (If you would like to play around with this project)
 
 1. Install [Unity Hub](https://unity.com/download) and use it to install editor version **6000.4.1f1**.
 2. Clone the repo:
@@ -35,4 +35,4 @@ As the run goes on, things speed up, gaps tighten, and the course gets meaner â€
 
 ## Status
 
-hobby project from University. Play on the Itch page! No more updates
+Hobby project from University. Play on the Itch page! No more updates
